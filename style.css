@@ -47,6 +47,9 @@ p
    margin: 30px auto; 
    border: 2px solid rgb(89, 45, 13);
    border-radius: 5px;
+   display:inline-block;
+   margin:20px;
+
 }
 
 .box
