@@ -10,6 +10,7 @@ body
    padding: 10px;
    margin: 0px;
    font-family: system-ui;
+   font-family: Edu Australia VIC WA NT Hand;;
 }
 
 h3
@@ -31,7 +32,7 @@ h2
   color: rgb(91, 56, 18);
 }
 
-p
+.p
 {
    font-size: 20px;
    text-align: centre;
