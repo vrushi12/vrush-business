@@ -1,0 +1,75 @@
+body
+{
+  background-color: rgb(231, 210, 195);
+}
+ h1
+{
+   text-align: center ;
+   background-color: rgb(59, 44, 36);
+   color: white;
+   padding: 10px;
+   margin: 0px;
+   font-family: system-ui;
+}
+
+h3
+{
+   margin-top: 20px;
+   font-size: large;
+
+}
+
+h3:hover
+{
+   font-family: sans-serif;
+   color:rgb(97, 46, 14);
+}
+
+h2
+{
+  text-align:center;
+  color: rgb(91, 56, 18);
+}
+
+p
+{
+   font-size: 20px;
+   text-align: centre;
+
+}
+
+.box
+{
+   width:258px;
+   background-color:rgb(214, 184, 162);
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   display: block;
+   margin: 30px auto; 
+   border: 2px solid rgb(89, 45, 13);
+   border-radius: 5px;
+}
+
+.box
+
+.img
+{
+   height: 150px;
+   width:250px;
+   border:2px dashed rgb(89, 45, 13);
+   margin: 2px;
+}
+
+.coffee
+{
+   text-align: center;
+}
+
+.price
+{
+   text-align: center;
+}
+
+.contact
+{
+   text-align: center;
+}
